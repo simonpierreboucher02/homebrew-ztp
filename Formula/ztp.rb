@@ -1,9 +1,9 @@
 class Ztp < Formula
   desc "Zyquo Tool Protocol — Native agent runtime for macOS"
   homepage "https://github.com/simonpierreboucher02/ztp"
-  url "https://github.com/simonpierreboucher02/ztp/releases/download/v0.4.0/ztp-0.4.0-macos-arm64.tar.gz"
-  sha256 "00067a7d94343c0f8375af0e185c4e3c3c01758d2ba542d33f153e01d908250f"
-  version "0.4.0"
+  url "https://github.com/simonpierreboucher02/ztp/releases/download/v0.5.0/ztp-0.5.0-macos-arm64.tar.gz"
+  sha256 "958465433d0a3abf7e8adc69663d530f0c423cab346bbdc9bb770703784a172d"
+  version "0.5.0"
   license "MIT"
 
   depends_on :macos
